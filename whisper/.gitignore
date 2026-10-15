@@ -1,0 +1,19 @@
+# Python environments
+.venv/
+venv/
+
+# Python bytecode and caches
+__pycache__/
+
+# Local secrets
+.env
+
+# Downloaded datasets, recordings, and generated manifests
+data/
+datasets/
+corpus/
+audio/
+recordings/
+
+tests/
+.github/
